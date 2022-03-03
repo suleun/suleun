@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suleun)](https://github.com/suleun/github-readme-stats)
 
